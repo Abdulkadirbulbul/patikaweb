@@ -1,0 +1,66 @@
+
+.ort{
+  text-align: center;
+}
+
+.cardsearch{
+background-color: rgb(209, 210, 206);
+width: 1220px;
+
+
+
+}
+.bg-red{
+  background-color: rgb(255, 0, 0);
+}
+
+input{
+    width: 287px;
+    margin: 3px;
+    /*padding: 51px;*/
+
+}
+
+
+.mavicard{
+  background-color:#7ee5da;
+
+}
+
+.container{
+  margin-left: 8%;
+  margin-right:8%;
+}
+
+.mcard1{
+  width: 457px; 
+  
+  text-align: center;
+
+}
+.mcard2{
+  width: 300px;
+  
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+}
+.mcard3{
+  width: 460px;
+  
+  text-align: center;
+  
+
+}
+.ortala{
+
+
+  display: flex;
+  flex-direction: row;
+}
+.ml{
+  margin-left: 2px;
+}
+.mt{
+  margin-top: 2px;
+}
